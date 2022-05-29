@@ -1,4 +1,4 @@
-<?xml-stylesheet href="xls/ite_HTML.xls" type="text/xls"?>
+<?xml-stylesheet href="xsl/ite_HTML.xsl" type="text/xsl"?>
 <!--Transformación--> 
 <ite nombre="Instituto Tecnológico Edix" web="hhtps://institutotecnologico.edix.com">
     <empresa>Proeduca</empresa>
